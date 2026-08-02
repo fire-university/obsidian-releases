@@ -41106,7 +41106,7 @@
   {
     "id": "paperfolio-kobo",
     "name": "PaperFolio for Kobo",
-    "author": "Chung Kun Tao",
+    "author": "Doug (FIRE University)",
     "description": "Import your Kobo highlights into Obsidian: one clean note per book, sorted by true reading order and grouped by chapter, with your own notes protected. Reads from a connected Kobo eReader or the Kobo desktop app. - This plugin has not been manually reviewed by Obsidian staff.",
     "repo": "fire-university/paperfolio-obsidian"
   },
